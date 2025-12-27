@@ -41,7 +41,7 @@ final class MacLookupTests: XCTestCase {
         XCTAssertEqual(imacpros.count, 1)
         XCTAssertEqual(macbooks.count, 7)
         XCTAssertEqual(macbookairs.count, 24)
-        XCTAssertEqual(macbookpros.count, 55)
+        XCTAssertEqual(macbookpros.count, 56)
         XCTAssertEqual(macminis.count, 11)
         XCTAssertEqual(macpros.count, 8)
         XCTAssertEqual(servers.count, 2)
